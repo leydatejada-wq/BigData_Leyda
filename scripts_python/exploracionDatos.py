@@ -1,5 +1,5 @@
 import pandas as pd
-
+#comentario 13.13
 # Cargamos el dataset preprocesado y limpio
 df = pd.read_csv("airbnb_centroamerica_master.csv", low_memory=False)
 print("🔍 Dataset cargado. Iniciando batería de consultas de exploración...")
